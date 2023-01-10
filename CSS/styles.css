@@ -1,7 +1,12 @@
 /******************************Tag Styles******************************************************************/
 
+
+h1{
+    margin: 0px;
+}
+
 body{
-    background-color: blue;
+    margin: 0px;
 }
 
 
@@ -14,8 +19,25 @@ body{
 /******************************Class Styles******************************************************************/
 
 
+.container {
+   
+    
 
+}
+.top_container{
+    background-color: #A5F1E9;
+}
 
+.middle_container{
+    background-color: #7FE9DE;
+    height: 100px;
+
+}
+
+.bottom_container{
+    background-color: #FFF6BF;
+    height: 100px;
+}
 
 
 
