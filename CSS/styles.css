@@ -2,11 +2,14 @@
 
 
 h1{
-    margin: 0px;
+    margin: 0 ;
+   
 }
 
 body{
     margin: 0px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -17,30 +20,25 @@ body{
 
 
 /******************************Class Styles******************************************************************/
-
-
-.container {
-   
-    
-
+.secondCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
+
+.topCloud {
+    position: absolute;
+    right:300px;
+    top:50px;
+  
+}
+
 .top_container{
-    background-color: #A5F1E9;
-}
+    background-color:#E3FDFD ;
+    position: relative;
+    padding-top: 100px;
 
-.middle_container{
-    background-color: #7FE9DE;
-    height: 100px;
-
-}
-
-.bottom_container{
-    background-color: #FFF6BF;
-    height: 100px;
-}
-
-
-
+} 
 
 
 
